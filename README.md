@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Jake! I'm a web developer currently working on [SnackCrate](https://snackcrate.com)
+### Hi there 👋, I'm Jake! I'm a web developer currently working on a bunch of fun stuff w/ [on/Sight](https://on-sight.co/)
 
 <!--
 **JakeAdmire/JakeAdmire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
